@@ -12,7 +12,10 @@
 
 ### Back-end Skills
 ![Node.js](http://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-191919?&logo=Node.js&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-EFEFEF?&logo=Node.js&logoColor=black)
+![Axios](https://img.shields.io/badge/-Axios-EFEFEF?&logo=Node.js&logoColor=black)
+![Puppeteer](https://img.shields.io/badge/-Puppeteer-EFEFEF?&logo=Node.js&logoColor=black)
+![multer](https://img.shields.io/badge/-multer-EFEFEF?&logo=Node.js&logoColor=black)
 ![Socket.io](http://img.shields.io/badge/-Socket.io-010101?style=flat-square&logo=Socket.io&logoColor=white)
 ![MySQL](http://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
 
