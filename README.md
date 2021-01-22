@@ -27,4 +27,6 @@
 ![AWS](http://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=Amazon-AWS&logoColor=white)
 
 ### Tistory blog
-[![blog](http://img.shields.io/badge/-Blog-FF5722?style=for-the-badge&logo=Blogger&logoColor=white&link=https://dudghsx.tistory.com/)](https://dudghsx.tistory.com/)   
+Click this :point_right:
+[![blog](http://img.shields.io/badge/-Blog-FF5722?style=for-the-badge&logo=Blogger&logoColor=white&link=https://dudghsx.tistory.com/)](https://dudghsx.tistory.com/)
+:point_left: Click this
