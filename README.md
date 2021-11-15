@@ -10,6 +10,10 @@
 ![Axios](https://img.shields.io/badge/-Axios-EFEFEF?&logo=Node.js&logoColor=black)
 ![Webpack](http://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=Webpack&logoColor=black)
 ![Redux](http://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=Redux&logoColor=white)
+![Storybook](http://img.shields.io/badge/-Storybook-FF4785?style=flat-square&logo=Storybook&logoColor=white)
+![MobX](http://img.shields.io/badge/-MobX-black?style=flat-square&logo=MobX&logoColor=#FF9955)
+![Material-UI](http://img.shields.io/badge/-Material--Ui-0081CB?style=flat-square&logo=Material-UI&logoColor=#FF9955)
+![Ag-grid](https://img.shields.io/badge/-Ag--Grid-EFEFEF?&logo=Node.js&logoColor=black)
 
 ### Back-end Skills
 ![Node.js](http://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=white)
