@@ -9,8 +9,10 @@
 ![Prettier](http://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=Prettier&logoColor=black)
 
 
+![Next.js](http://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=Next.js&logoColor=white)
 ![Redux](http://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=Redux&logoColor=white)
 ![MobX](http://img.shields.io/badge/-MobX-FF9955?style=flat-square&logo=MobX&logoColor=white)
+
 
 ![styled-components](http://img.shields.io/badge/-styled--components-DB7093?style=flat-square&logo=styled-components&logoColor=white)
 ![emotion](https://img.shields.io/badge/-emotion-EFEFEF?&logo=Node.js&logoColor=black)
@@ -18,9 +20,10 @@
 
 
 ![Material-UI](http://img.shields.io/badge/-MUI-007FFF?style=flat-square&logo=MUI&logoColor=white)
-![Toast-UI](https://img.shields.io/badge/-Toast--UI-EFEFEF?&logo=Node.js&logoColor=black)
+![ToastUI](https://img.shields.io/badge/-ToastUI-EFEFEF?&logo=Node.js&logoColor=black)
 ![Ag-grid](https://img.shields.io/badge/-Ag--Grid-EFEFEF?&logo=Node.js&logoColor=black)
 ![ApexCharts](https://img.shields.io/badge/-ApexCharts-EFEFEF?&logo=Node.js&logoColor=black)
+
 
 ### Back-end Skills
 ![Node.js](http://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=white)
@@ -34,8 +37,11 @@
 ![C++](http://img.shields.io/badge/-C++-00599C?style=flat-square&logo=C++&logoColor=white)
 ![java](http://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java&logoColor=white)
 ![Python](http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
-![Slack](http://img.shields.io/badge/-Slack-4A154B?style=flat-square&logo=Slack&logoColor=white)
 ![AWS](http://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=Amazon-AWS&logoColor=white)
+
+![Slack](http://img.shields.io/badge/-Slack-4A154B?style=flat-square&logo=Slack&logoColor=white)
+![Figma](http://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white)
+![Miro](http://img.shields.io/badge/-Miro-050038?style=flat-square&logo=Miro&logoColor=white)
 
 ### Tistory blog
 Click here :point_right:
